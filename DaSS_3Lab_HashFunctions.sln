@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DaSS_3Lab_HashFunctions", "DaSS_3Lab_HashFunctions\DaSS_3Lab_HashFunctions.fsproj", "{B8A45141-12AF-4DAC-B0DF-CF16766B085F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A45141-12AF-4DAC-B0DF-CF16766B085F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A45141-12AF-4DAC-B0DF-CF16766B085F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A45141-12AF-4DAC-B0DF-CF16766B085F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A45141-12AF-4DAC-B0DF-CF16766B085F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5164A36C-96A1-44BF-B307-C5A439D51767}
+	EndGlobalSection
+EndGlobal
